@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 coklkowiekinnego
+=======
+wpisywane jest cos
+>>>>>>> master
